@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 My name is Khinshan, but I also go by "Shan".
 
 ### More Information
