@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+# About
+
+My name is Khinshan, but I also go by "Shan".
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Hmm, I feel like it's somewhat redundant to say more about myself here. I
+actually started a blog on my own over summer, and although it's still a work in
+progress, it has an about page too. Feel free to check it out
+[here](https://khinshankhan.com).
