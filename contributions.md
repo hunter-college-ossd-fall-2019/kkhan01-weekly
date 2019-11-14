@@ -27,4 +27,6 @@ Replace the first row below with your contribution.
 |  9   | [https://www.openstreetmap.org/changeset/76269965#map=18/40.73695/-73.72780](https://www.openstreetmap.org/changeset/76269965#map=18/40.73695/-73.72780) | OpenStreet Map feature | Disconnected roads since there is a dead end. It's a fenced off community with no entrance on this side |
 |  9   | [https://www.openstreetmap.org/changeset/76270097#map=19/40.73561/-73.72540](https://www.openstreetmap.org/changeset/76270097#map=19/40.73561/-73.72540) | OpenStreet Map feature | Added 2 stop signs since it made more sense than one with both ways |
 |  9   | [https://github.com/Dreameh/wata-blog/pull/1](https://github.com/Dreameh/wata-blog/pull/1) | Project Code | Prefer dark theme if not specified |
+| 11 | [https://en.wikipedia.org/w/index.php?title=Klaus&diff=prev&oldid=926079309](https://en.wikipedia.org/w/index.php?title=Klaus&diff=prev&oldid=926079309) | Wikipedia Edit | Added hyperlink and fixed a hyperlink |
+|      |     |   |  |
 |      |     |   |  |
