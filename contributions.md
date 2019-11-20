@@ -29,4 +29,6 @@ Replace the first row below with your contribution.
 |  9   | [https://github.com/Dreameh/wata-blog/pull/1](https://github.com/Dreameh/wata-blog/pull/1) | Project Code | Prefer dark theme if not specified |
 | 11 | [https://en.wikipedia.org/w/index.php?title=Klaus&diff=prev&oldid=926079309](https://en.wikipedia.org/w/index.php?title=Klaus&diff=prev&oldid=926079309) | Wikipedia Edit | Added hyperlink and fixed a hyperlink |
 | 11 | [https://en.wikipedia.org/w/index.php?title=Ric_Brown&diff=prev&oldid=926082870](https://en.wikipedia.org/w/index.php?title=Ric_Brown&diff=prev&oldid=926082870) | Wikipedia Edit | Replaced broken internal link |
+| 12 | [https://en.wikipedia.org/w/index.php?title=Roche_moutonn%C3%A9e&diff=prev&oldid=926927860](https://en.wikipedia.org/w/index.php?title=Roche_moutonn%C3%A9e&diff=prev&oldid=926927860) | Wikipedia Edit | Added clarification that a literal translation causes misconception|
+|      |     |   |  |
 |      |     |   |  |
