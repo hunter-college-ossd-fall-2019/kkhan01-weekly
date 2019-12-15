@@ -33,3 +33,6 @@ Replace the first row below with your contribution.
 | 12 | [https://en.wikipedia.org/w/index.php?title=Python_(programming_language)&diff=prev&oldid=927180454](https://en.wikipedia.org/w/index.php?title=Python_(programming_language)&diff=prev&oldid=927180454) | Wikipedia Edit | Added hyperlinks to technical topics |
 | 13 | [https://github.com/the-programmers-hangout/website/pull/189](https://github.com/the-programmers-hangout/website/pull/189) | Project Code | Implemented a smart 404 page for resources with suggestions based on typos' semantic distances |
 | 14 | [https://github.com/the-programmers-hangout/website/pull/193](https://github.com/the-programmers-hangout/website/pull/193) | Project Code | Fixed link redirection |
+| 15 | [https://en.wikipedia.org/w/index.php?title=Simon_Curtis_(actor)&diff=prev&oldid=930922473](https://en.wikipedia.org/w/index.php?title=Simon_Curtis_(actor)&diff=prev&oldid=930922473) | Wikipedia Edit | Removed misleading link |
+| 15 | [https://en.wikipedia.org/w/index.php?title=8Bit_Heart&diff=prev&oldid=930922590](https://en.wikipedia.org/w/index.php?title=8Bit_Heart&diff=prev&oldid=930922590) | Wikipedia Edit | Removed misleading link |
+| | | | |
